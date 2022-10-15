@@ -2,17 +2,17 @@
   "name": "quest",
   "version": "1.0.0",
   "description": "",
-  "main": "src/000.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node src/000.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "express": "~4.16.3"
   },
-   "engines": {
+  "engines": {
     "node": "v16.18.0"
   },
-"repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/Gunderaok/quest.git"
   },
@@ -20,4 +20,3 @@
   "author": "Rearc",
   "license": "ISC"
 }
-
